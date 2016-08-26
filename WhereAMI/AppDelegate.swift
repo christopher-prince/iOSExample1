@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  TestIt
+//  WhereAMI
 //
-//  Created by Chris Prince on 8/26/16.
+//  Created by Chris Prince on 8/25/16.
 //  Copyright © 2016 Angies List. All rights reserved.
 //
 
